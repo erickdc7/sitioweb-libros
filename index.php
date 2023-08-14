@@ -22,7 +22,7 @@
                 <a class="nav-link" href="#">Libros</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Libros</a>
+                <a class="nav-link" href="#">Nosotros</a>
             </li>
         </ul>
     </nav>
