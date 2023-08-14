@@ -13,10 +13,10 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <ul class="nav navbar-nav">
             <li class="nav-item">
-                <a class="nav-link active" href="#">Nav 1</a>
+                <a class="nav-link active" href="#">Develoteca</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Nav 2</a>
+                <a class="nav-link" href="#">Inicio</a>
             </li>
         </ul>
     </nav>
