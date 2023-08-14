@@ -21,6 +21,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="#">Libros</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Libros</a>
+            </li>
         </ul>
     </nav>
 </body>
