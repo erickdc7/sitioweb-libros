@@ -1,8 +1,4 @@
-<?php
-
-include("template/cabecera.php");
-
-?>
+<?php include("template/cabecera.php"); ?>
 
 <div class="p-5 mb-4 bg-light rounded-3">
     <div class="container-fluid py-5">
@@ -12,8 +8,4 @@ include("template/cabecera.php");
     </div>
 </div>
 
-<?php
-
-include("template/pie.php");
-
-?>
+<?php include("template/pie.php"); ?>
