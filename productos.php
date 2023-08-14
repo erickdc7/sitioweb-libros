@@ -4,7 +4,7 @@
     <div class="card">
         <img class="card-img-top" src="https://www.w3schools.com/bootstrap5/img_avatar1.png" alt="Title">
         <div class="card-body">
-            <h4 class="card-title">Title</h4>
+            <h4 class="card-title">Libro</h4>
             <a name="" id="" class="btn btn-primary" href="#" role="button">Ver más</a>
         </div>
     </div>
@@ -14,7 +14,7 @@
     <div class="card">
         <img class="card-img-top" src="https://www.w3schools.com/bootstrap5/img_avatar1.png" alt="Title">
         <div class="card-body">
-            <h4 class="card-title">Title</h4>
+            <h4 class="card-title">Libro</h4>
             <a name="" id="" class="btn btn-primary" href="#" role="button">Ver más</a>
         </div>
     </div>
@@ -24,7 +24,7 @@
     <div class="card">
         <img class="card-img-top" src="https://www.w3schools.com/bootstrap5/img_avatar1.png" alt="Title">
         <div class="card-body">
-            <h4 class="card-title">Title</h4>
+            <h4 class="card-title">Libro</h4>
             <a name="" id="" class="btn btn-primary" href="#" role="button">Ver más</a>
         </div>
     </div>
@@ -34,7 +34,7 @@
     <div class="card">
         <img class="card-img-top" src="https://www.w3schools.com/bootstrap5/img_avatar1.png" alt="Title">
         <div class="card-body">
-            <h4 class="card-title">Title</h4>
+            <h4 class="card-title">Libro</h4>
             <a name="" id="" class="btn btn-primary" href="#" role="button">Ver más</a>
         </div>
     </div>
