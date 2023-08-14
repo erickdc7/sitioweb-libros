@@ -1,7 +1,3 @@
-<?php
-echo "Hola";
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
