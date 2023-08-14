@@ -16,13 +16,13 @@
                 <a class="nav-link active" href="#">Develoteca</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Inicio</a>
+                <a class="nav-link" href="index.php">Inicio</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Libros</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Nosotros</a>
+                <a class="nav-link" href="nosotros.php">Nosotros</a>
             </li>
         </ul>
     </nav>
