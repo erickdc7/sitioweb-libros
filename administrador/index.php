@@ -22,7 +22,7 @@
                         Login
                     </div>
                     <div class="card-body">
-                        <form>
+                        <form method="POST">
                             <div class="mb-3">
                                 <label class="form-label">Usuario</label>
                                 <input type="text" class="form-control" name="usuario" placeholder="Escribe tu usuario">
