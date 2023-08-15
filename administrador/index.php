@@ -29,7 +29,7 @@
                             </div>
                             <div class="mb-3">
                                 <label for="exampleInputPassword1" class="form-label">Contraseña</label>
-                                <input type="password" class="form-control" name="contrasenia" placeholder="Contraseña">
+                                <input type="password" class="form-control" name="contrasenia" placeholder="Escribe tu contraseña">
                             </div>
                             <button type="submit" class="btn btn-primary">Entrar al sistema</button>
                         </form>
