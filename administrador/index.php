@@ -24,11 +24,11 @@
                     <div class="card-body">
                         <form>
                             <div class="mb-3">
-                                <label for="exampleInputEmail1" class="form-label">Usuario</label>
+                                <label class="form-label">Usuario</label>
                                 <input type="text" class="form-control" name="usuario" placeholder="Escribe tu usuario">
                             </div>
                             <div class="mb-3">
-                                <label for="exampleInputPassword1" class="form-label">Contraseña</label>
+                                <label class="form-label">Contraseña</label>
                                 <input type="password" class="form-control" name="contrasenia" placeholder="Escribe tu contraseña">
                             </div>
                             <button type="submit" class="btn btn-primary">Entrar al Administrador</button>
