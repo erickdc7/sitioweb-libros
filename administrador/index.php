@@ -31,7 +31,7 @@
                                 <label for="exampleInputPassword1" class="form-label">Contraseña</label>
                                 <input type="password" class="form-control" name="contrasenia" placeholder="Escribe tu contraseña">
                             </div>
-                            <button type="submit" class="btn btn-primary">Entrar al sistema</button>
+                            <button type="submit" class="btn btn-primary">Entrar al Administrador</button>
                         </form>
                     </div>
                 </div>
