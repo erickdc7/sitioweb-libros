@@ -10,6 +10,8 @@
 </head>
 
 <body>
+    <?php $url = "http://" . $_SERVER['HTTP_HOST'] . "/sitioweb-libros"; ?>
+
     <nav class="navbar navbar-expand navbar-light bg-light">
         <div class="nav navbar-nav">
             <a class="nav-item nav-link active" href="#" aria-current="page">Administrador del Sitio Web</a>
