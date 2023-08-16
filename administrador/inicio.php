@@ -1,3 +1,5 @@
+<?php include('template/cabecera.php'); ?>
+
 <div class="col-md-12">
     <div class="p-5 mb-4 bg-light rounded-3">
         <div class="container-fluid py-5">
