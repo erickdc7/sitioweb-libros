@@ -10,6 +10,16 @@
 </head>
 
 <body>
+    <nav class="navbar navbar-expand navbar-light bg-light">
+        <div class="nav navbar-nav">
+            <a class="nav-item nav-link active" href="#" aria-current="page">Administrador del Sitio Web</a>
+            <a class="nav-item nav-link" href="#">Inicio</a>
+            <a class="nav-item nav-link" href="#">Libros</a>
+            <a class="nav-item nav-link" href="#">Cerrar sesión</a>
+            <a class="nav-item nav-link" href="#">Ver sitio web</a>
+        </div>
+    </nav>
+
     <div class="container">
         <div class="row">
             <div class="col-md-12">
