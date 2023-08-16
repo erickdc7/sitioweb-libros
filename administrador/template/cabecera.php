@@ -18,7 +18,7 @@
             <a class="nav-item nav-link" href="#">Inicio</a>
             <a class="nav-item nav-link" href="#">Libros</a>
             <a class="nav-item nav-link" href="#">Cerrar</a>
-            <a class="nav-item nav-link" href="#">Ver sitio web</a>
+            <a class="nav-item nav-link" href="<?php echo $url; ?>">Ver sitio web</a>
         </div>
     </nav>
 
