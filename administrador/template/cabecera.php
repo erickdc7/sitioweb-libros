@@ -15,7 +15,7 @@
     <nav class="navbar navbar-expand navbar-light bg-light">
         <div class="nav navbar-nav">
             <a class="nav-item nav-link active" href="#" aria-current="page">Administrador del Sitio Web</a>
-            <a class="nav-item nav-link" href="#">Inicio</a>
+            <a class="nav-item nav-link" href="<?php echo $url; ?>/administrador/inicio.php">Inicio</a>
             <a class="nav-item nav-link" href="#">Libros</a>
             <a class="nav-item nav-link" href="#">Cerrar</a>
             <a class="nav-item nav-link" href="<?php echo $url; ?>">Ver sitio web</a>
