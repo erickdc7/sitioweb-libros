@@ -15,7 +15,7 @@
             <a class="nav-item nav-link active" href="#" aria-current="page">Administrador del Sitio Web</a>
             <a class="nav-item nav-link" href="#">Inicio</a>
             <a class="nav-item nav-link" href="#">Libros</a>
-            <a class="nav-item nav-link" href="#">Cerrar sesión</a>
+            <a class="nav-item nav-link" href="#">Cerrar</a>
             <a class="nav-item nav-link" href="#">Ver sitio web</a>
         </div>
     </nav>
