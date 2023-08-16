@@ -1,6 +1,7 @@
 <?php
 
 if ($_POST) {
+    header('Location:inicio.php');
 }
 
 ?>
