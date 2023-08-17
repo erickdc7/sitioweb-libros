@@ -4,4 +4,8 @@
 
 </div>
 
+<div class="col-md-7">
+
+</div>
+
 <?php include("../template/pie.php"); ?>
