@@ -3,7 +3,7 @@
 <div class="col-md-5">
     <div class="card">
         <div class="card-header">
-            Header
+            Datos del Libro
         </div>
         <div class="card-body">
             <h4 class="card-title">Title</h4>
