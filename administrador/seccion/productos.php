@@ -7,8 +7,8 @@
             <input type="text" class="form-control" id="txtID" name="txtID" placeholder="ID">
         </div>
         <div class="mb-3">
-            <label class="form-label" for="txtID">ID</label>
-            <input type="text" class="form-control" id="txtID" name="txtID" placeholder="ID">
+            <label class="form-label" for="txtNombre">ID</label>
+            <input type="text" class="form-control" id="txtNombre" name="txtNombre" placeholder="ID">
         </div>
         <button type="submit" class="btn btn-primary">Entrar al Administrador</button>
     </form>
