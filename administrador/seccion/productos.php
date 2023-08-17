@@ -1,5 +1,7 @@
 <?php include("../template/cabecera.php"); ?>
 
-Libros
+<div class="col-md-5">
+
+</div>
 
 <?php include("../template/pie.php"); ?>
