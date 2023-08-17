@@ -1,7 +1,17 @@
 <?php include("../template/cabecera.php"); ?>
 
 <div class="col-md-5">
-    Formulario de agregar libros
+    <form method="POST">
+        <div class="mb-3">
+            <label class="form-label">Usuario</label>
+            <input type="text" class="form-control" name="usuario" placeholder="Escribe tu usuario">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Contraseña</label>
+            <input type="password" class="form-control" name="contrasenia" placeholder="Escribe tu contraseña">
+        </div>
+        <button type="submit" class="btn btn-primary">Entrar al Administrador</button>
+    </form>
 </div>
 
 <div class="col-md-7">
