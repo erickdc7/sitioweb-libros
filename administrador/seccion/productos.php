@@ -14,7 +14,11 @@
             <label class="form-label" for="txtNombre">Imagen:</label>
             <input type="file" class="form-control" id="txtNombre" name="txtNombre" placeholder="Nombre del libro">
         </div>
-        <button type="submit" class="btn btn-primary">Entrar al Administrador</button>
+        <div class="btn-group" role="group" aria-label="Button group name">
+            <button type="button" class="btn btn-primary">First One</button>
+            <button type="button" class="btn btn-primary">Second One</button>
+            <button type="button" class="btn btn-primary">Third One</button>
+        </div>
     </form>
 </div>
 
