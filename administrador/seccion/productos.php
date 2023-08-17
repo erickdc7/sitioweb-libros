@@ -5,7 +5,7 @@
 </div>
 
 <div class="col-md-7">
-
+    Tabla de libros (mostrar datos de los libros)
 </div>
 
 <?php include("../template/pie.php"); ?>
