@@ -3,7 +3,7 @@
 <div class="col-md-5">
     <form method="POST">
         <div class="mb-3">
-            <label class="form-label" for="txtID">ID</label>
+            <label class="form-label" for="txtID">ID:</label>
             <input type="text" class="form-control" id="txtID" name="txtID" placeholder="ID">
         </div>
         <div class="mb-3">
