@@ -1,6 +1,19 @@
 <?php include("../template/cabecera.php"); ?>
 
 <div class="col-md-5">
+    <div class="card">
+        <div class="card-header">
+            Header
+        </div>
+        <div class="card-body">
+            <h4 class="card-title">Title</h4>
+            <p class="card-text">Text</p>
+        </div>
+        <div class="card-footer text-muted">
+            Footer
+        </div>
+    </div>
+
     <form method="POST" enctype="multipart/form-data">
         <div class="mb-3">
             <label class="form-label" for="txtID">ID:</label>
