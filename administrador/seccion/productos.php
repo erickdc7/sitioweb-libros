@@ -17,7 +17,7 @@
         <div class="btn-group" role="group" aria-label="Button group name">
             <button type="button" class="btn btn-success">First One</button>
             <button type="button" class="btn btn-warning">Second One</button>
-            <button type="button" class="btn btn-primary">Third One</button>
+            <button type="button" class="btn btn-info">Third One</button>
         </div>
     </form>
 </div>
