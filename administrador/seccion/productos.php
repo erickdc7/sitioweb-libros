@@ -1,7 +1,7 @@
 <?php include("../template/cabecera.php"); ?>
 
 <div class="col-md-5">
-    <form method="POST">
+    <form method="POST" enctype="multipart/form-data">
         <div class="mb-3">
             <label class="form-label" for="txtID">ID:</label>
             <input type="text" class="form-control" id="txtID" name="txtID" placeholder="ID">
