@@ -11,7 +11,7 @@
             <input type="text" class="form-control" id="txtNombre" name="txtNombre" placeholder="Nombre del libro">
         </div>
         <div class="mb-3">
-            <label class="form-label" for="txtNombre">Nombre:</label>
+            <label class="form-label" for="txtNombre">Imagen:</label>
             <input type="text" class="form-control" id="txtNombre" name="txtNombre" placeholder="Nombre del libro">
         </div>
         <button type="submit" class="btn btn-primary">Entrar al Administrador</button>
