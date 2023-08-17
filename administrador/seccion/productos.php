@@ -7,6 +7,10 @@
             <input type="text" class="form-control" id="txtID" name="txtID" placeholder="ID">
         </div>
         <div class="mb-3">
+            <label class="form-label" for="txtID">ID</label>
+            <input type="text" class="form-control" id="txtID" name="txtID" placeholder="ID">
+        </div>
+        <div class="mb-3">
             <label class="form-label">Contraseña</label>
             <input type="password" class="form-control" name="contrasenia" placeholder="Escribe tu contraseña">
         </div>
