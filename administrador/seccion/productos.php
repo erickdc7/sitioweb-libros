@@ -15,7 +15,7 @@
             <input type="file" class="form-control" id="txtNombre" name="txtNombre" placeholder="Nombre del libro">
         </div>
         <div class="btn-group" role="group" aria-label="Button group name">
-            <button type="button" class="btn btn-success">First One</button>
+            <button type="button" class="btn btn-success">Agregar</button>
             <button type="button" class="btn btn-warning">Second One</button>
             <button type="button" class="btn btn-info">Third One</button>
         </div>
